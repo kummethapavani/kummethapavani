@@ -21,8 +21,8 @@ TECHNICAL SKILLS:
 - Web Technologies: Html,Css,Basics of Java Script
 - Databases:Mysql
 - Operating Systems:Linux
-- Application Software::Android Studio,Basic Visual Studio
-- Languages-:English,Telugu
+- Application Software:Android Studio,Basic Visual Studio
+- Languages:English,Telugu
 
 FIELD OF INTEREST:
 
