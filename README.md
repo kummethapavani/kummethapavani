@@ -1,7 +1,7 @@
  Hi there, I’m kummethapavani 👋
  
  Glad to see you here:
- I'm a passionate computer science student with good Problem solving skills,strong communication skills,Data Structures and Algorithms and good implementation skills in general purpose programming languages.
+- I'm a passionate computer science student with good Problem solving skills,strong communication skills,Data Structures and Algorithms and good implementation skills in general purpose programming languages.
 - I am Enthusiastic and Problem Sloving abilities
 - Willingness to learn and Never give up
 - Willing to acquire knowledge and new skills
